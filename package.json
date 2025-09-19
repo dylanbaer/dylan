@@ -1,11 +1,11 @@
 {
-  "name": "mcp-server",           // Project name
-  "version": "1.0.0",              // Version number
-  "type": "module",                // Enables ES module syntax (import/export)
-  "dependencies": {                // External libraries your code needs
-    "express": "^4.19.0"            // Installs Express web framework
+  "name": "mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.0"
   },
-  "scripts": {                      // Commands you can run with npm
-    "start": "node index.js"        // "npm start" will run index.js
+  "scripts": {
+    "start": "node index.js"
   }
 }
